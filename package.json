@@ -1,0 +1,36 @@
+{
+  "name": "turboforge",
+  "version": "1.0.0",
+  "description": "Production-grade modern full-stack monorepo generator with AI agent presets and multi-app orchestration.",
+  "main": "dist/index.js",
+  "bin": {
+    "turboforge": "./dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli.js",
+    "dev": "tsc -w",
+    "test": "node --test dist/**/*.test.js"
+  },
+  "keywords": [
+    "monorepo",
+    "turborepo",
+    "nextjs",
+    "nestjs",
+    "supabase",
+    "mcp",
+    "ai-agents",
+    "scaffold",
+    "developer-tools",
+    "cli"
+  ],
+  "author": "Raghav Sharma <raghavjatin245@gmail.com> (https://github.com/raghav1924)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2"
+  }
+}
