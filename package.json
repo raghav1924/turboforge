@@ -24,7 +24,12 @@
     "developer-tools",
     "cli"
   ],
-  "author": "Raghav Sharma <raghavjatin245@gmail.com> (https://github.com/raghav1924)",
+  "author": "Jatin Sharma <raghavjatin245@gmail.com> (https://jatinsh.netlify.app/)",
+  "homepage": "https://jatinsh.netlify.app/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raghav1924/turboforge.git"
+  },
   "license": "MIT",
   "engines": {
     "node": ">=18.0.0"
@@ -34,3 +39,4 @@
     "typescript": "^5.7.2"
   }
 }
+

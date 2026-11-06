@@ -426,3 +426,4 @@ create policy "Users can update their own profile"
 
   return files;
 }
+

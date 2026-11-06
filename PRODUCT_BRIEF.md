@@ -3,7 +3,7 @@
 **Project Name:** `turboforge` (cli: `turboforge`)  
 **Tagline:** Production-grade modern full-stack monorepo generator with AI agent presets and multi-app orchestration.  
 **Created Date:** 2026-11-06  
-**Author:** Raghav Sharma (@raghav1924)  
+**Author:** Jatin Sharma ([https://jatinsh.netlify.app/](https://jatinsh.netlify.app/))  
 **Status:** In Development
 
 ---
@@ -48,3 +48,4 @@ Turboforge is a modern, high-speed CLI tool built with TypeScript that scaffolds
   - Backend options: NestJS / Node REST API / Supabase
   - Shared: `@repo/ui`, `@repo/tsconfig`, `@repo/eslint-config`
   - Agentic: `.agents/`, `.cursorrules`, `apps/mcp-server`
+

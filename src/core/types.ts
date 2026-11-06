@@ -27,3 +27,4 @@ export interface TemplateDefinition {
   recommendedStack: string;
   generateFiles: (config: ProjectConfig) => TemplateFile[];
 }
+

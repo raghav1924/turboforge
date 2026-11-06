@@ -102,8 +102,9 @@ ${this.config.backend === 'nestjs' ? '- NestJS API: `http://localhost:4000/api`\
 - Cursor, Windsurf, and LLM coding assistants will strictly adhere to monorepo import limits.
 
 ---
-*Created by [Raghav Sharma](https://github.com/raghav1924) with Turboforge.*
+*Created by [Jatin Sharma](https://jatinsh.netlify.app/) with Turboforge.*
 `,
     };
   }
 }
+

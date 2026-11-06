@@ -142,10 +142,12 @@ Flags:
 
 ## 👨‍💻 Author & Open Source
 
-Created by **[Raghav Sharma](https://github.com/raghav1924)**  
+Created with ❤️ by **[Jatin Sharma](https://jatinsh.netlify.app/)**  
 *Full-Stack Engineer & Product Designer*
 
-- GitHub: [@raghav1924](https://github.com/raghav1924)
-- Repository: [https://github.com/raghav1924/turboforge](https://github.com/raghav1924/turboforge)
+- 🌐 **Portfolio & Case Studies:** [https://jatinsh.netlify.app/](https://jatinsh.netlify.app/)
+- 🐙 **GitHub:** [@raghav1924](https://github.com/raghav1924)
+- 📦 **Repository:** [https://github.com/raghav1924/turboforge](https://github.com/raghav1924/turboforge)
 
 Distributed under the [MIT License](LICENSE).
+

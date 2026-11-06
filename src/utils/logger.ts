@@ -32,3 +32,4 @@ ${colors.dim}  Production-Grade Full-Stack Monorepo & AI Agent Scaffold${colors.
 ${colors.gray}  ────────────────────────────────────────────────────────${colors.reset}
 `);
 }
+
