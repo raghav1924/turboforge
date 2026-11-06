@@ -238,7 +238,7 @@ MCP_SERVER_SECRET=your-mcp-secret-token-here
   files.push({
     path: 'packages/ui/src/components/button.tsx',
     content: `import * as React from 'react';
-import { cn } from '../lib/utils.js';
+import { cn } from '../lib/utils';
 
 export interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
   variant?: 'primary' | 'secondary' | 'outline' | 'ghost';

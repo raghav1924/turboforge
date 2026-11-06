@@ -1,0 +1,5 @@
+# Cursor & Agent Rules for my-new-app
+- Prefer server actions and React Server Components for mutations.
+- Keep dependencies lean and reuse @repo/ui buttons and primitives.
+- If editing database schemas, document migration impact in packages/database/README.md.
+- Ensure all API endpoints in apps/api include DTO validation and status code documentation.
