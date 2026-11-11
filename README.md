@@ -3,6 +3,7 @@
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![CI](https://github.com/raghav1924/turboforge/actions/workflows/ci.yml/badge.svg)](https://github.com/raghav1924/turboforge/actions)
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18.0.0-emerald.svg)](https://nodejs.org/)
 [![Turborepo](https://img.shields.io/badge/Turborepo-2.0-ef4444.svg)](https://turbo.build/)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black.svg)](https://nextjs.org/)
