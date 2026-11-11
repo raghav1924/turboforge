@@ -1,0 +1,21 @@
+name: Bug Report
+description: Create a report to help improve TurboForge
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for filing a bug report for TurboForge!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the bug encountered and expected behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: cli-command
+    attributes:
+      label: CLI Command & Error Log
+      description: Command run and terminal output.
+    validations:
+      required: false
