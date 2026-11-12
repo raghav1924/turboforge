@@ -19,3 +19,4 @@ body:
       description: Command run and terminal output.
     validations:
       required: false
+

@@ -15,3 +15,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - AI Agent Model Context Protocol (MCP) server generator.
 - Shared `@repo/ui` and `@repo/eslint-config` internal workspace packages.
 - Zero-dependency scaffolding architecture with automated pnpm/npm workspace linkage.
+

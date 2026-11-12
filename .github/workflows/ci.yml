@@ -21,3 +21,4 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: npm install -g typescript
     - run: tsc
+
