@@ -1,0 +1,24 @@
+name: Feature Request
+description: Suggest a new monorepo template preset or tool integration for TurboForge
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve TurboForge!
+  - type: textarea
+    id: problem
+    attributes:
+      label: Is your feature request related to a monorepo tooling or template preset need?
+      description: Explain the framework or workflow you want supported.
+      placeholder: When scaffolding a modern Turborepo with Remix / Hono / FastAPI...
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Describe the proposed template or capability
+      description: How should TurboForge configure package workspaces and tooling?
+    validations:
+      required: true
