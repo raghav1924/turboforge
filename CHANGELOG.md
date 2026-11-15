@@ -16,3 +16,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Shared `@repo/ui` and `@repo/eslint-config` internal workspace packages.
 - Zero-dependency scaffolding architecture with automated pnpm/npm workspace linkage.
 
+
+## [1.1.0] - 2026-11-15
+### Added
+- Extended CLI documentation and option references.
+- Workspace synthesis architecture guide.
+- Monorepo scaling and caching best practices.
