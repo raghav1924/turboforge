@@ -22,3 +22,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extended CLI documentation and option references.
 - Workspace synthesis architecture guide.
 - Monorepo scaling and caching best practices.
+
+## [1.2.0] - 2026-11-16
+### Added
+- Master design system mapping (Swiss Design, Bento Grid).
+- Architecture deep dive and synthesis pipeline documentation.
+- CLI command cheatsheet and remote caching guides.
