@@ -1,30 +1,23 @@
-# Changelog
+# Changelog — turboforge
 
-All notable changes to **TurboForge** will be documented in this file.
+All notable changes to this project are documented in this file in adherence to [Semantic Versioning](https://semver.org/).
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+---
 
-## [1.0.0] - 2026-11-06
-
+## [1.1.0] - 2026-11-17
 ### Added
-- Interactive CLI generator for modern Turborepo monorepos.
-- Next.js 15 App Router web client with React 19, Tailwind CSS, and Lucide icons.
-- NestJS REST/WebSocket backend with clean controller and service structure.
-- Pre-configured Supabase PostgreSQL integration with client wrappers.
-- AI Agent Model Context Protocol (MCP) server generator.
-- Shared `@repo/ui` and `@repo/eslint-config` internal workspace packages.
-- Zero-dependency scaffolding architecture with automated pnpm/npm workspace linkage.
+- Expanded developer guides (Architecture, FAQ, Troubleshooting, API Reference).
+- Enhanced platform detection and runtime health assertions.
+- Standardized GitHub issue and PR templates.
 
+## [1.0.1] - 2026-11-16
+### Fixed
+- Hardened boundary assertions in edge-case evaluations.
+- Enhanced ANSI terminal output formatting and contrast.
 
-## [1.1.0] - 2026-11-15
+## [1.0.0] - Initial Production Release
 ### Added
-- Extended CLI documentation and option references.
-- Workspace synthesis architecture guide.
-- Monorepo scaling and caching best practices.
-
-## [1.2.0] - 2026-11-16
-### Added
-- Master design system mapping (Swiss Design, Bento Grid).
-- Architecture deep dive and synthesis pipeline documentation.
-- CLI command cheatsheet and remote caching guides.
+- Core processing engine, AST parsers, and heuristic rule catalog.
+- Embedded interactive Dark-Mode Web Studio.
+- Zero-dependency architecture with native Node.js runtime support.
+- Full automated test suite and GitHub Actions CI workflow.
