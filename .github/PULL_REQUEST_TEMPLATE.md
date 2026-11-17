@@ -1,17 +1,14 @@
 ## Description
-
-Brief summary of the template preset or monorepo generator feature introduced in this PR.
+Brief summary of changes proposed in this Pull Request for **turboforge**.
 
 ## Type of Change
-
-- [ ] New monorepo template
-- [ ] Next.js 15 / NestJS / Supabase integration update
-- [ ] Bug fix
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
 - [ ] Documentation update
+- [ ] Performance improvement
 
 ## Checklist
-
-- [ ] Generator builds cleanly (`npm run build`)
-- [ ] Generated monorepo templates compile and pass checks
-- [ ] Zero external scaffolding runtime dependencies maintained
-
+- [ ] My code follows the project's code style and conventions.
+- [ ] I have executed `npm run build` and verified zero compiler errors.
+- [ ] I have executed `npm test` and verified 100% test pass rate.
+- [ ] I have updated documentation where appropriate.
